@@ -8,6 +8,7 @@ wrong = 0
 #For a daily double, a correct answer is the value of the normal clue, and a wrong answer is not a loss
 last_right_or_wrong = []
 scores = [0]
+date = input("What's the date of the episode you're watching? Enter it in the format Sep22_2021: ")
 cluevalue = input(
     "Enter the clue value/100 or type \"end\" to end the game.\nTo undo the last right or wrong response that affected your score, type \"undo\".\n"
 )
@@ -43,7 +44,7 @@ while (cluevalue != "end"):
     print(rt)
     scores.append(rt)
     plt.plot(scores)
-    plt.savefig("score_progression.png")
+    plt.savefig("GameCoryatGraphs/"+ date + ".png")
     print("Correct: " + str(correct))
     print("Wrong: " + str(wrong))
     cluevalue = input(
