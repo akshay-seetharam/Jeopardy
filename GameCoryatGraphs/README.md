@@ -1,1 +1,0 @@
-The code in [coryat-scorekeeper.py](https://github.com/akshay-seetharam/Jeopardy/blob/main/coryat_scorekeeper.py) generates plots of my score after each game that go in this directory. It's not that complicated.
