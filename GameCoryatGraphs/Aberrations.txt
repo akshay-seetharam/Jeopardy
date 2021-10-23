@@ -1,0 +1,12 @@
+Format:
+GraphFilename.png
+j-archive link to game
+Clue Number
+Round
+Issue
+
+Oct22_2021.png
+https://j-archive.com/showgame.php?game_id=7172
+Clue 23
+Single Jeopardy
+Entered as a No Guess, but meant to type a "y," so game is recorded as having too many clues and graph has a flat line where it should have nothing
