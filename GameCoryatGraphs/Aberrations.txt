@@ -7,6 +7,12 @@ Issue
 
 Oct22_2021.png
 https://j-archive.com/showgame.php?game_id=7172
-Clue 23
+23
 Single Jeopardy
 Entered as a No Guess, but meant to type a "y," so game is recorded as having too many clues and graph has a flat line where it should have nothing
+
+Oct29_2021.png
+https://www.j-archive.com/showgame.php?game_id=7180
+37
+Double Jeopardy
+Entered "78" for the clue value and then entered nothing for the correctness status, so clue is recorded as having too many clues and graph has a flat line where it should have nothing
