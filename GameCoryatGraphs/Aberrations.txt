@@ -1,7 +1,7 @@
 Format:
 GraphFilename.png
 j-archive link to game
-Clue Number
+Clue Number or IDK
 Round
 Issue
 
@@ -16,3 +16,9 @@ https://www.j-archive.com/showgame.php?game_id=7180
 37
 Double Jeopardy
 Entered "78" for the clue value and then entered nothing for the correctness status, so clue is recorded as having too many clues and graph has a flat line where it should have nothing
+
+Nov23_2021.png
+https://www.j-archive.com/showgame.php?game_id=7198
+IDK
+Double Jeopardy
+Entered "2" for the clue value when it should have been "20," so game is recorded as having too many clues and graph has a flat line where it should have nothing
