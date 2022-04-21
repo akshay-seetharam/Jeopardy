@@ -44,6 +44,7 @@ while (cluevalue != "end"):
     print(rt)
     scores.append(rt)
     plt.plot(scores)
+    plt.title("Coryat Score Through Double Jeopardy! Round")
     plt.savefig("GameCoryatGraphs/"+ date + ".png")
     print("Correct: " + str(correct))
     print("Wrong: " + str(wrong))
